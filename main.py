@@ -1,3 +1,3 @@
-nevem="ASDASAD"
+nevem="ASDASdasadsdasAD"
 print("Hello world")
 print(nevem)
