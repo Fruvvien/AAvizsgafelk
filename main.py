@@ -1,3 +1,4 @@
 nevem="ASDASdasadsdasAD"
+masodiknevem="hahahahahah"
 print("Hello world")
-print(nevem)
+print(nevem, masodiknevem)
